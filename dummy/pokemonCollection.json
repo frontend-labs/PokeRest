@@ -1,0 +1,62 @@
+{
+   "001"  : {
+        "id" : "001",
+        "name" : "bulbasaur",
+        "size" : "0,7 m",
+        "weight" : "6,9 kg",
+        "category" : "seed",
+        "abilities" : "Overgrow",
+        "photoSmall" : "http://assets2.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
+        "photoBig" : "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+   },
+    "002"  : {
+        "id" : "002",
+        "name" : "ivysaur",
+        "size" : "1,0 m",
+        "weight" : "13,0 kg",
+        "category" : "seed",
+        "abilities" : "Overgrow",
+        "photoSmall" : "http://assets2.pokemon.com/assets/cms2/img/pokedex/detail/002.png",
+        "photoBig" : "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+   },
+    "003"  : {
+        "id" : "003",
+        "name" : "venusaur",
+        "size" : "2,0 m",
+        "weight" : "100,0 kg",
+        "category" : "seed",
+        "abilities" : "Overgrow",
+        "photoSmall" : "http://assets2.pokemon.com/assets/cms2/img/pokedex/detail/003.png",
+        "photoBig" : "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+   },
+    "004"  : {
+        "id" : "004",
+        "name" : "charmander",
+        "size" : "0,6 m",
+        "weight" : "8,5 kg",
+        "category" : "lizard",
+        "abilities" : "blaze",
+        "photoSmall" : "http://assets2.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
+        "photoBig" : "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+   },
+    "005"  : {
+        "id" : "005",
+        "name" : "charmeleon",
+        "size" : "1,1 m",
+        "weight" : "19,0 kg",
+        "category" : "lizard",
+        "abilities" : "blaze",
+        "photoSmall" : "http://assets2.pokemon.com/assets/cms2/img/pokedex/detail/005.png",
+        "photoBig" : "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+   },
+    "006"  : {
+        "id" : "006",
+        "name" : "charizard",
+        "size" : "1,7 m",
+        "weight" : "90,5 kg",
+        "category" : "lizard",
+        "abilities" : "blaze",
+        "photoSmall" : "http://assets2.pokemon.com/assets/cms2/img/pokedex/detail/005.png",
+        "photoBig" : "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+   }
+}
