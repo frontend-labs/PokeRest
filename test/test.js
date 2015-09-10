@@ -13,11 +13,14 @@ describe('listPokemon',function(){
 	it('show json',function(done){
 		request
 			.get('/listPokemon')
+			.set('Accept', 'application/json')
 			.expect('Content-Type',/json/)
-			.expect('Content-Length','1628')
 			.expect(200)
 			.end(function(err, res){
 				if (err) throw err;
+				done();
 			})
 	});
 });
+
+//.set('Accept', 'application/json')
